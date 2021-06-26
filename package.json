@@ -1,0 +1,22 @@
+{
+    "name": "night-fox",
+    "displayName": "Night Fox",
+    "description": "Theme inspired by Night Wolf Dark Gray",
+    "publisher": "Rotfuchs-von-Vulpes",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Night Fox",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Night Fox-color-theme.json"
+            }
+        ]
+    }
+}

@@ -1,2 +1,1 @@
-# NightFox
-A dark theme for VSC
+Theme inspired by Night Wolf Dark Gray
