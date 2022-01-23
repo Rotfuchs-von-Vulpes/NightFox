@@ -13,9 +13,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "Night Fox",
+                "label": "Night Fox Dark Blue",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Night Fox-color-theme.json"
+                "path": "./themes/NightFox-DarkBlue-color-theme.json"
+            },
+            {
+                "label": "Night Fox Dark Gray",
+                "uiTheme": "vs-dark",
+                "path": "./themes/NightFox-Dark-color-theme.json"
             }
         ]
     }

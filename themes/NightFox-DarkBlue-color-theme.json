@@ -1,38 +1,75 @@
 {
-	"name": "Night Fox",
+	"name": "Night Fox Dark Blue",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#1a1922",
-		"editor.foreground": "#c1c7ce",
-		"activityBarBadge.background": "#242234",
-		"sideBarTitle.foreground": "#242234"
+		"activityBar.activeBackground": "#1a1926",
+		"activityBar.activeBorder": "#ff5614",
+		"activityBarBadge.background": "#ff5614",
+		"activityBar.background": "#141320",
+		"activityBar.foreground": "#bdbdbd",
+		"button.background": "#ff5614",
+		"editor.background": "#1a1926",
+		"editorGroup.dropBackground": "#141320",
+		"editorGroupHeader.tabsBackground": "#141320",
+		"editorWidget.background": "#141320",
+		"dropdown.background": "#141320",
+		"foreground": "#bdbdbd",
+		"list.hoverBackground": "#1a1926",
+		"list.inactiveSelectionBackground": "#28263a",
+		"panelTitle.activeBorder": "#ff5614",
+		"sideBar.background": "#171621",
+		"sideBarSectionHeader.background": "#141320",
+		"minimap.background": "#171621",
+		"minimap.selectionHighlight": "#ff5614",
+		"tab.activeBorder": "#ff5614",
+		"tab.inactiveBackground": "#171621",
+		"titleBar.activeBackground": "#141320",
+		"titleBar.inactiveBackground": "#141320",
+		"titleBar.inactiveForeground": "#686868",
+		"input.background": "#141320"
 	},
 	"tokenColors": [
 		{
-			"name": "Comment",
+			"name": "Keyword control",
 			"scope": [
-				"comment",
-				"punctuation.definition.comment"
+				"punctuation.definition.directive",
+				"entity.other.attribute-name",
+				"punctuation.definition.entity",
+				"keyword.control",
+				"keyword.other.enum.cs",
+				"keyword.other.namespace.cs",
+				"keyword.other.sql"
 			],
 			"settings": {
-				"foreground": "#6a698f",
+				"foreground": "#9696FF"
 			}
 		},
 		{
 			"name": "Ponctuation",
 			"scope": [
-				"punctuation"
+				"punctuation",
+				"variable.other.property.js"
 			],
 			"settings": {
-				"foreground": "#cecece",
+				"foreground": "#cecece"
+			}
+		},
+		{
+			"name": "Comment",
+			"scope": [
+				"comment",
+				"punctuation.definition.comment",
+				"comment.block.documentation.js"
+			],
+			"settings": {
+				"foreground": "#6a698f"
 			}
 		},
 		{
 			"name": "Storage",
 			"scope": [
 				"storage",
-				"keyword.local",
-				"punctuation.definition.template-expression"
+				"keyword.other.class.cs"
 			],
 			"settings": {
 				"foreground": "#00B4FF",
@@ -42,10 +79,13 @@
 		{
 			"name": "Variable",
 			"scope": [
-				"variable"
+				"variable",
+				"meta.method.body.java",
+				"entity.name.variable.parameter.cs",
+				"entity.name.variable.local.cs"
 			],
 			"settings": {
-				"foreground": "#FFDC96",
+				"foreground": "#FFDC96"
 			}
 		},{
 			"name": "Constant variable",
@@ -53,14 +93,16 @@
 				"variable.other.constant"
 			],
 			"settings": {
-				"foreground": "#ffbf48",
+				"foreground": "#ffbf48"
 			}
 		},
 		{
 			"name": "Functions",
 			"scope": [
 				"entity.name.function",
-				"entity.other.attribute-name.class"
+				"entity.other.attribute-name.class",
+				"entity.name.function.cs",
+				"support.function.any-method.lua"
 			],
 			"settings": {
 				"foreground": "#00DCDC",
@@ -71,22 +113,14 @@
 			"name": "Entity",
 			"scope": [
 				"entity.name.type.class",
-				"entity.name.type.interface"
+				"entity.name.type.interface",
+				"entity.name.type.enum.cs",
+				"entity.name.type.namespace.cs",
+				"entity.name.type.ts",
+				"entity.name.type.module.js"
 			],
 			"settings": {
-				"foreground": "#B267E6",
-			}
-		},
-		{
-			"name": "Keyord control",
-			"scope": [
-				"keyword",
-				"punctuation.definition.directive",
-				"entity.other.attribute-name",
-				"punctuation.definition.entity"
-			],
-			"settings": {
-				"foreground": "#9696FF"
+				"foreground": "#B267E6"
 			}
 		},
 		{
@@ -94,11 +128,14 @@
 			"scope": [
 				"keyword.operator",
 				"variable.language.this",
+				"variable.language.self.lua",
 				"entity.name.tag",
-				"punctuation.definition.tag"
+				"meta.tag.block.any.html",
+				"punctuation.definition.tag",
+				"variable.language.dart"
 			],
 			"settings": {
-				"foreground": "#FF7878",
+				"foreground": "#FF7878"
 			}
 		},
 		{
@@ -110,13 +147,14 @@
 				"constant.language.boolean"
 			],
 			"settings": {
-				"foreground": "#DC8CFF",
+				"foreground": "#DC8CFF"
 			}
 		},
 		{
 			"name": "Support",
 			"scope": [
-				"support"
+				"support",
+				"keyword.type.cs"
 			],
 			"settings": {
 				"foreground": "#71cbff",
@@ -130,7 +168,7 @@
 				"support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#F78C6C",
+				"foreground": "#F78C6C"
 			}
 		},
 		{
@@ -140,7 +178,7 @@
 				"punctuation.definition.string"
 			],
 			"settings": {
-				"foreground": "#AAE682",
+				"foreground": "#AAE682"
 			}
 		},
 		{
@@ -231,7 +269,7 @@
 				"punctuation.definition.block.tag.jsdoc"
 			],
 			"settings": {
-				"foreground": "#00b3ff80",
+				"foreground": "#00b3ff80"
 			}
 		},
 		{
@@ -240,8 +278,8 @@
 				"variable.other.jsdoc"
 			],
 			"settings": {
-				"foreground": "#ffbf4877",
+				"foreground": "#ffbf4877"
 			}
-		},
+		}
 	]
 }
