@@ -1,9 +1,9 @@
 {
     "name": "night-fox",
     "displayName": "Night Fox",
-    "description": "Theme inspired by Night Wolf Dark Gray",
+    "description": "Theme inspired by Night Wolf",
     "publisher": "Rotfuchs-von-Vulpes",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.57.0"
     },
