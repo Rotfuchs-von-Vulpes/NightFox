@@ -5,36 +5,36 @@ A Visual Studio Code theme based on the Mao Santaella's [Night Wolf theme](https
 *This was based in my own personal taste.
 
 ## C
-![c1](images/BlueC.png)
-![c2](images/DarkC.png)
+![c1](https://github.com/Rotfuchs-von-Vulpes/NightFox/raw/main/images/BlueC.png)
+![c2](https://github.com/Rotfuchs-von-Vulpes/NightFox/raw/main/images/DarkC.png)
 
 ## Python
-![c1](images/BluePython.png)
-![c2](images/DarkPython.png)
+![py1](https://github.com/Rotfuchs-von-Vulpes/NightFox/raw/main/images/BluePython.png)
+![py2](https://github.com/Rotfuchs-von-Vulpes/NightFox/raw/main/images/DarkPython.png)
 
 ## C#
-![c1](images/BlueCsharp.png)
-![c2](images/DarkCsharp.png)
+![cs1](https://github.com/Rotfuchs-von-Vulpes/NightFox/raw/main/images/BlueCsharp.png)
+![cs2](https://github.com/Rotfuchs-von-Vulpes/NightFox/raw/main/images/DarkCsharp.png)
 
 ## JavaScript
-![c1](images/BlueJavaScript.png)
-![c2](images/DarkJavaScript.png)
+![js1](https://github.com/Rotfuchs-von-Vulpes/NightFox/raw/main/images/BlueJavaScript.png)
+![js2](https://github.com/Rotfuchs-von-Vulpes/NightFox/raw/main/images/DarkJavaScript.png)
 
 ## Dart
-![c1](images/BlueDart.png)
-![c2](images/DarkDart.png)
+![dart1](https://github.com/Rotfuchs-von-Vulpes/NightFox/raw/main/images/BlueDart.png)
+![dart2](https://github.com/Rotfuchs-von-Vulpes/NightFox/raw/main/images/DarkDart.png)
 
 ## HTML
-![c1](images/BlueHTML.png)
-![c2](images/DarkHTML.png)
+![html1](https://github.com/Rotfuchs-von-Vulpes/NightFox/raw/main/images/BlueHTML.png)
+![html2](https://github.com/Rotfuchs-von-Vulpes/NightFox/raw/main/images/DarkHTML.png)
 
 ## Vue
-![c1](images/BlueVue.png)
-![c2](images/DarkVue.png)
+![vue1](https://github.com/Rotfuchs-von-Vulpes/NightFox/raw/main/images/BlueVue.png)
+![vue2](https://github.com/Rotfuchs-von-Vulpes/NightFox/raw/main/images/DarkVue.png)
 
 ## JSON
-![c1](images/BlueJSON.png)
-![c2](images/DarkJSON.png)
+![json1](https://github.com/Rotfuchs-von-Vulpes/NightFox/raw/main/images/BlueJSON.png)
+![json2](https://github.com/Rotfuchs-von-Vulpes/NightFox/raw/main/images/DarkJSON.png)
 
 *big images to preserve details
 <!---
