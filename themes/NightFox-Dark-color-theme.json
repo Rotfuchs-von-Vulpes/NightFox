@@ -69,7 +69,8 @@
 			"name": "Storage",
 			"scope": [
 				"storage",
-				"keyword.other.class.cs"
+				"keyword.other.class.cs",
+				"keyword.local.lua"
 			],
 			"settings": {
 				"foreground": "#00B4FF",
