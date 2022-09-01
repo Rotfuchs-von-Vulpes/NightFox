@@ -23,5 +23,6 @@
                 "path": "./themes/NightFox-Dark-color-theme.json"
             }
         ]
-    }
+    },
+    "icon": "images/night-fox-icon.png"
 }
