@@ -4,12 +4,18 @@
     "description": "Theme inspired by Night Wolf",
     "publisher": "Rotfuchs-von-Vulpes",
     "version": "1.0.0",
-    "engines": {
-        "vscode": "^1.57.0"
-    },
-    "categories": [
-        "Themes"
-    ],
+	"license": "SEE LICENSE IN THE LICENSE FILE",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Rotfuchs-von-Vulpes/NightFox"
+	},
+	"bugs": {
+		"url": "https://github.com/Rotfuchs-von-Vulpes/NightFox/issues",
+		"email": "derfuchs.pa@gmail.com"
+	},
+	"engines": {
+		"vscode": "^1.32.x"
+	},
     "contributes": {
         "themes": [
             {
@@ -24,5 +30,18 @@
             }
         ]
     },
+	"keywords": [
+		"Theme",
+		"Dark Theme",
+		"Night fox",
+		"Night Theme"
+	],
+    "categories": [
+        "Themes"
+    ],
+	"galleryBanner": {
+		"color": "#101E2C",
+		"theme": "dark"
+	},
     "icon": "images/night-fox-icon.png"
 }
