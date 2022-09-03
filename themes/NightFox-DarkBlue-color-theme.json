@@ -45,7 +45,9 @@
 				"keyword.control",
 				"keyword.other.enum.cs",
 				"keyword.other.namespace.cs",
-				"keyword.other.sql"
+				"keyword.other.sql",
+				"keyword.other.julia",
+				"keyword.operator.relation.in.julia"
 			],
 			"settings": {
 				"foreground": "#9696FF"
@@ -110,7 +112,8 @@
 				"entity.name.function",
 				"entity.other.attribute-name.class",
 				"entity.name.function.cs",
-				"support.function.any-method.lua"
+				"support.function.any-method.lua",
+				"support.function.julia"
 			],
 			"settings": {
 				"foreground": "#00DCDC",
@@ -152,6 +155,9 @@
 				"keyword.operator.logical",
 				"keyword.operator.comparison",
 				"keyword.operator.relational",
+				"keyword.operator.boolean.julia",
+				"keyword.operator.comparison.julia",
+				"keyword.operator.relation.julia",
 				"constant.language.boolean"
 			],
 			"settings": {
