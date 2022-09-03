@@ -155,7 +155,8 @@
 			"name": "Support",
 			"scope": [
 				"support",
-				"keyword.type.cs"
+				"keyword.type.cs",
+				"entity.name.function.preprocessor.c"
 			],
 			"settings": {
 				"foreground": "#71cbff",
