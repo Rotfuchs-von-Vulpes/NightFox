@@ -187,6 +187,16 @@
 			}
 		},
 		{
+			"name": "Unit",
+			"scope": [
+				"keyword.other.unit"
+			],
+			"settings": {
+				"foreground": "#d17063",
+				"fontStyle": "italic"
+			}
+		},
+		{
 			"name": "Strings",
 			"scope": [
 				"string",
