@@ -180,10 +180,20 @@
 			"name": "Constant",
 			"scope": [
 				"constant",
-				"support.type.property-name"
+				// "support.type.property-name"
 			],
 			"settings": {
 				"foreground": "#F78C6C"
+			}
+		},
+		{
+			"name": "Unit",
+			"scope": [
+				"keyword.other.unit"
+			],
+			"settings": {
+				"foreground": "#d17063",
+				"fontStyle": "italic"
 			}
 		},
 		{
