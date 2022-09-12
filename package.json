@@ -1,9 +1,9 @@
 {
-    "name": "night-fox",
-    "displayName": "Night Fox",
-    "description": "Theme inspired by Night Wolf",
-    "publisher": "Rotfuchs-von-Vulpes",
-    "version": "1.0.4",
+	"name": "night-fox",
+	"displayName": "Night Fox",
+	"description": "Theme inspired by Night Wolf",
+	"publisher": "Rotfuchs-von-Vulpes",
+	"version": "1.0.4",
 	"license": "SEE LICENSE IN THE LICENSE FILE",
 	"repository": {
 		"type": "git",
@@ -16,32 +16,32 @@
 	"engines": {
 		"vscode": "^1.32.x"
 	},
-    "contributes": {
-        "themes": [
-            {
-                "label": "Night Fox Dark Blue",
-                "uiTheme": "vs-dark",
-                "path": "./themes/NightFox-DarkBlue-color-theme.json"
-            },
-            {
-                "label": "Night Fox Dark Gray",
-                "uiTheme": "vs-dark",
-                "path": "./themes/NightFox-Dark-color-theme.json"
-            }
-        ]
-    },
+	"contributes": {
+		"themes": [
+			{
+				"label": "Night Fox Dark Blue",
+				"uiTheme": "vs-dark",
+				"path": "./themes/NightFox-DarkBlue-color-theme.json"
+			},
+			{
+				"label": "Night Fox Dark Gray",
+				"uiTheme": "vs-dark",
+				"path": "./themes/NightFox-Dark-color-theme.json"
+			}
+		]
+	},
 	"keywords": [
 		"Theme",
 		"Dark Theme",
 		"Night fox",
 		"Night Theme"
 	],
-    "categories": [
-        "Themes"
-    ],
+	"categories": [
+		"Themes"
+	],
 	"galleryBanner": {
 		"color": "#101E2C",
 		"theme": "dark"
 	},
-    "icon": "images/night-fox-icon.png"
+	"icon": "images/night-fox-icon.png"
 }

@@ -126,9 +126,12 @@
 				"entity.name.type.class",
 				"entity.name.type.interface",
 				"entity.name.type.enum.cs",
+				"entity.name.type.enum.ts",
 				"entity.name.type.namespace.cs",
+				"entity.name.type.namespace.ts",
 				"entity.name.type.ts",
-				"entity.name.type.module.js"
+				"entity.name.type.module.js",
+				"entity.name.type.module.ts"
 			],
 			"settings": {
 				"foreground": "#B267E6"
