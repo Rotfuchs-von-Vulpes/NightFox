@@ -1,81 +1,81 @@
 {
-  "Keyword control": {
+  "keywordControl": {
     "foreground": "#9696FF"
   },
-  "Ponctuation": {
+  "ponctuation": {
     "foreground": "#cecece"
   },
-  "Comment": {
+  "comment": {
     "foreground": "#6a698f"
   },
-  "Storage": {
+  "storage": {
     "foreground": "#00B4FF",
     "fontStyle": "italic"
   },
-  "Variables": {
+  "variables": {
     "foreground": "#FFDC96"
   },
-  "Constant variable": {
+  "constantVariable": {
     "foreground": "#ffbf48"
   },
-  "Functions": {
+  "functions": {
     "foreground": "#00DCDC",
     "fontStyle": "italic"
   },
-  "Entity": {
+  "entity": {
     "foreground": "#B267E6"
   },
-  "Operator": {
+  "uperator": {
     "foreground": "#FF7878"
   },
-  "Logic": {
+  "logic": {
     "foreground": "#DC8CFF"
   },
-  "Support": {
+  "support": {
     "foreground": "#71cbff",
     "fontStyle": "italic"
   },
-  "Constant": {
+  "constant": {
     "foreground": "#F78C6C"
   },
-  "Unit": {
+  "unit": {
     "foreground": "#d17063",
     "fontStyle": "italic"
   },
-  "Strings": {
+  "strings": {
     "foreground": "#AAE682"
   },
-  "JSON Key - level 0": {
+  "JSONKeyLevel0": {
     "foreground": "#FF5370"
   },
-  "JSON Key - level 1": {
+  "JSONKeyLevel1": {
     "foreground": "#F78C6C"
   },
-  "JSON Key - level 2": {
+  "JSONKeyLevel2": {
     "foreground": "#FFCB6B"
   },
-  "JSON Key - level 3": {
+  "JSONKeyLevel3": {
     "foreground": "#C3E88D"
   },
-  "JSON Key - level 4": {
+  "JSONKeyLevel4": {
     "foreground": "#82AAFF"
   },
-  "JSON Key - level 5": {
+  "JSONKeyLevel5": {
     "foreground": "#5d51ff"
   },
-  "JSON Key - level 6": {
+  "JSONKeyLevel6": {
     "foreground": "#a33ae9"
   },
-  "JSON Key - level 7": {
+  "JSONKeyLevel7": {
     "foreground": "#C792EA"
   },
-  "JSON Key - level 8": {
+  "JSONKeyLevel8": {
     "foreground": "#C3E88D"
   },
-  "JS doc storage": {
+  "JSDocStorage": {
     "foreground": "#00b3ff80"
   },
-  "JS doc variable": {
+  "JSDocVariable": {
     "foreground": "#ffbf4877"
   }
 }

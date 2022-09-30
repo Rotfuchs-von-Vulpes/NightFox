@@ -1,0 +1,121 @@
+{
+  "keywordControl": [
+    "punctuation.definition.directive",
+    "entity.other.attribute-name",
+    "punctuation.definition.entity",
+    "keyword.control",
+    "keyword.other.enum.cs",
+    "keyword.other.namespace.cs",
+    "keyword.other.sql",
+    "keyword.other.julia",
+    "keyword.operator.relation.in.julia"
+  ],
+  "ponctuation": [
+    "punctuation",
+    "variable.other.property.js"
+  ],
+  "comment": [
+    "comment",
+    "punctuation.definition.comment",
+    "comment.block.documentation.js"
+  ],
+  "storage": [
+    "storage",
+    "keyword.other.class.cs",
+    "keyword.local.lua"
+  ],
+  "variables": [
+    "variable",
+    "meta.method.body.java",
+    "entity.name.variable.parameter.cs",
+    "entity.name.variable.local.cs"
+  ],
+  "constantVariable": [
+    "variable.other.constant"
+  ],
+  "functions": [
+    "entity.name.function",
+    "entity.other.attribute-name.class",
+    "entity.name.function.cs",
+    "support.function.any-method.lua",
+    "support.function.julia"
+  ],
+  "entity": [
+    "entity.name.type.class",
+    "entity.name.type.interface",
+    "entity.name.type.enum.cs",
+    "entity.name.type.enum.ts",
+    "entity.name.type.namespace.cs",
+    "entity.name.type.namespace.ts",
+    "entity.name.type.ts",
+    "entity.name.type.module.js",
+    "entity.name.type.module.ts"
+  ],
+  "uperator": [
+    "keyword.operator",
+    "variable.language.this",
+    "variable.language.self.lua",
+    "entity.name.tag",
+    "meta.tag.block.any.html",
+    "punctuation.definition.tag",
+    "variable.language.dart"
+  ],
+  "logic": [
+    "keyword.operator.logical",
+    "keyword.operator.comparison",
+    "keyword.operator.relational",
+    "keyword.operator.boolean.julia",
+    "keyword.operator.comparison.julia",
+    "keyword.operator.relation.julia",
+    "constant.language.boolean"
+  ],
+  "support": [
+    "support",
+    "keyword.type.cs",
+    "entity.name.function.preprocessor.c"
+  ],
+  "constant": [
+    "constant"
+  ],
+  "unit": [
+    "keyword.other.unit"
+  ],
+  "strings": [
+    "string",
+    "punctuation.definition.string"
+  ],
+  "JSONKeyLevel0": [
+    "source.json meta.structure.dictionary.json support.type.property-name.json"
+  ],
+  "JSONKeyLevel1":[
+    "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
+  ],
+  "JSONKeyLevel2": [
+    "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
+  ],
+  "JSONKeyLevel3": [
+    "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
+  ],
+  "JSONKeyLevel4": [
+    "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
+  ],
+  "JSONKeyLevel5": [
+    "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
+  ],
+  "JSONKeyLevel6": [
+    "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
+  ],
+  "JSONKeyLevel7": [
+    "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
+  ],
+  "JSONKeyLevel8": [
+    "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
+  ],
+  "JSDocStorage": [
+    "storage.type.class.jsdoc",
+    "punctuation.definition.block.tag.jsdoc"
+  ],
+  "JSDocVariable": [
+    "variable.other.jsdoc"
+  ]
+}
