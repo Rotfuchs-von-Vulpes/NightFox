@@ -1,0 +1,81 @@
+{
+  "Keyword control": {
+    "foreground": "#9696FF"
+  },
+  "Ponctuation": {
+    "foreground": "#cecece"
+  },
+  "Comment": {
+    "foreground": "#6a698f"
+  },
+  "Storage": {
+    "foreground": "#00B4FF",
+    "fontStyle": "italic"
+  },
+  "Variables": {
+    "foreground": "#FFDC96"
+  },
+  "Constant variable": {
+    "foreground": "#ffbf48"
+  },
+  "Functions": {
+    "foreground": "#00DCDC",
+    "fontStyle": "italic"
+  },
+  "Entity": {
+    "foreground": "#B267E6"
+  },
+  "Operator": {
+    "foreground": "#FF7878"
+  },
+  "Logic": {
+    "foreground": "#DC8CFF"
+  },
+  "Support": {
+    "foreground": "#71cbff",
+    "fontStyle": "italic"
+  },
+  "Constant": {
+    "foreground": "#F78C6C"
+  },
+  "Unit": {
+    "foreground": "#d17063",
+    "fontStyle": "italic"
+  },
+  "Strings": {
+    "foreground": "#AAE682"
+  },
+  "JSON Key - level 0": {
+    "foreground": "#FF5370"
+  },
+  "JSON Key - level 1": {
+    "foreground": "#F78C6C"
+  },
+  "JSON Key - level 2": {
+    "foreground": "#FFCB6B"
+  },
+  "JSON Key - level 3": {
+    "foreground": "#C3E88D"
+  },
+  "JSON Key - level 4": {
+    "foreground": "#82AAFF"
+  },
+  "JSON Key - level 5": {
+    "foreground": "#5d51ff"
+  },
+  "JSON Key - level 6": {
+    "foreground": "#a33ae9"
+  },
+  "JSON Key - level 7": {
+    "foreground": "#C792EA"
+  },
+  "JSON Key - level 8": {
+    "foreground": "#C3E88D"
+  },
+  "JS doc storage": {
+    "foreground": "#00b3ff80"
+  },
+  "JS doc variable": {
+    "foreground": "#ffbf4877"
+  }
+}

@@ -43,5 +43,11 @@
 		"color": "#101E2C",
 		"theme": "dark"
 	},
-	"icon": "images/night-fox-icon.png"
+	"icon": "images/night-fox-icon.png",
+	"scripts": {
+		"dev": "ts-node-dev theme-compiler.ts"
+	},
+	"devDependencies": {
+		"ts-node-dev": "^2.0.0"
+	}
 }

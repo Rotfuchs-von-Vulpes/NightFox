@@ -1,0 +1,8 @@
+{
+  "primaryActive": "#ff5614",
+  "secondaryActive": "#94320c",
+  "tertiaryActive": "#531d07",
+
+  "foreground": "#bdbdbd",
+  "inactiveForeground": "#686868"
+}
