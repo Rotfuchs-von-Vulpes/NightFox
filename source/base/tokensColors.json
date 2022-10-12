@@ -8,6 +8,14 @@
   "comment": {
     "foreground": "#6a698f"
   },
+  "commentBold": {
+    "foreground": "#6a698f",
+    "fontStyle": "bold"
+  },
+  "commentItalic": {
+    "foreground": "#6a698f",
+    "fontStyle": "italic"
+  },
   "storage": {
     "foreground": "#00B4FF",
     "fontStyle": "italic"

@@ -8,7 +8,11 @@
     "keyword.other.namespace.cs",
     "keyword.other.sql",
     "keyword.other.julia",
-    "keyword.operator.relation.in.julia"
+    "keyword.operator.relation.in.julia",
+    "keyword.package.import.d",
+    "keyword.other.protections.d",
+    "keyword.package.module.d",
+    "keyword.other.package.hx"
   ],
   "ponctuation": [
     "punctuation",
@@ -17,7 +21,16 @@
   "comment": [
     "comment",
     "punctuation.definition.comment",
-    "comment.block.documentation.js"
+    "comment.block.documentation.js",
+    "punctuation.definition.bold.markdown",
+    "punctuation.definition.italic.markdown",
+    "punctuation.definition.raw.markdown"
+  ],
+  "commentBold": [
+    "markup.bold.markdown"
+  ],
+  "commentItalic": [
+    "markup.italic.markdown"
   ],
   "storage": [
     "storage",
@@ -38,7 +51,8 @@
     "entity.other.attribute-name.class",
     "entity.name.function.cs",
     "support.function.any-method.lua",
-    "support.function.julia"
+    "support.function.julia",
+    "entity.name.type.template.d"
   ],
   "entity": [
     "entity.name.type.class",
@@ -49,7 +63,10 @@
     "entity.name.type.namespace.ts",
     "entity.name.type.ts",
     "entity.name.type.module.js",
-    "entity.name.type.module.ts"
+    "entity.name.type.module.ts",
+    "entity.name.type.struct.d",
+    "entity.name.class.d",
+    "entity.name.type.hx"
   ],
   "uperator": [
     "keyword.operator",
@@ -58,7 +75,8 @@
     "entity.name.tag",
     "meta.tag.block.any.html",
     "punctuation.definition.tag",
-    "variable.language.dart"
+    "variable.language.dart",
+    "keyword.token.this.d"
   ],
   "logic": [
     "keyword.operator.logical",
