@@ -51,8 +51,7 @@
     "entity.other.attribute-name.class",
     "entity.name.function.cs",
     "support.function.any-method.lua",
-    "support.function.julia",
-    "entity.name.type.template.d"
+    "support.function.julia"
   ],
   "entity": [
     "entity.name.type.class",
@@ -90,7 +89,8 @@
   "support": [
     "support",
     "keyword.type.cs",
-    "entity.name.function.preprocessor.c"
+    "entity.name.function.preprocessor.c",
+    "entity.name.type.template.d"
   ],
   "constant": [
     "constant"
