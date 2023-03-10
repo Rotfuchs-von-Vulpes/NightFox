@@ -1,7 +1,7 @@
 # Night Fox 🦊
-[![ver](https://vsmarketplacebadge.apphb.com/version-short/Rotfuchs-von-Vulpes.Night-Fox.svg?label=Night-Fox&colorA=94320c&colorB=ff5614)](https://marketplace.visualstudio.com/items?itemName=Rotfuchs-von-Vulpes.Night-Fox)
-![installs](https://vsmarketplacebadge.apphb.com/installs/Rotfuchs-von-Vulpes.Night-Fox.svg?colorA=94320c&colorB=ff5614)
-![downloads](https://vsmarketplacebadge.apphb.com/downloads/Rotfuchs-von-Vulpes.Night-Fox.svg?colorA=94320c&colorB=ff5614)
+[![ver](https://img.shields.io/vscode-marketplace/v/Rotfuchs-von-Vulpes.night-fox.svg?label=vscode%20marketplace&colorA=94320c&colorB=ff5614)](https://marketplace.visualstudio.com/items?itemName=Rotfuchs-von-Vulpes.Night-Fox)
+![installs](https://img.shields.io/vscode-marketplace/i/Rotfuchs-von-Vulpes.night-fox.svg?label=installs&colorA=94320c&colorB=ff5614)
+![downloads](https://img.shields.io/vscode-marketplace/d/Rotfuchs-von-Vulpes.night-fox.svg?label=downloads&colorA=94320c&colorB=ff5614)
 
 A Visual Studio Code theme based on the Mao Santaella's [Night Wolf theme](https://marketplace.visualstudio.com/items?itemName=MaoSantaella.night-wolf) (which was based on the Sarah Drasner's [Night owl theme](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl)).
 
