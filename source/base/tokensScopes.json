@@ -89,6 +89,7 @@
   "support": [
     "support",
     "keyword.type.cs",
+    "keyword.other.typedef.c",
     "entity.name.function.preprocessor.c",
     "entity.name.type.template.d"
   ],
